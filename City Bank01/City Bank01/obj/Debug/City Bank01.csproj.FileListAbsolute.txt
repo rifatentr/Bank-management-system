@@ -1,0 +1,38 @@
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\bin\Debug\City Bank01.exe.config
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\bin\Debug\City Bank01.exe
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\bin\Debug\City Bank01.pdb
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City Bank01.csprojAssemblyReference.cache
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City_Bank01.Properties.Resources.resources
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City Bank01.csproj.GenerateResource.cache
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City Bank01.csproj.CoreCompileInputs.cache
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City Bank01.exe
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City Bank01.pdb
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\bin\Debug\kkk.mdf
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\bin\Debug\kkk_log.ldf
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City_Bank01.Form2.resources
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City_Bank01.homepage.resources
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City_Bank01.Form3.resources
+C:\Users\RIFATUL ISLAM\source\repos\City Bank01\City Bank01\obj\Debug\City_Bank01.Form4.resources
+F:\DATA\City Bank01\City Bank01\bin\Debug\kkk.mdf
+F:\DATA\City Bank01\City Bank01\bin\Debug\kkk_log.ldf
+F:\DATA\City Bank01\City Bank01\bin\Debug\City Bank01.exe.config
+F:\DATA\City Bank01\City Bank01\bin\Debug\City Bank01.exe
+F:\DATA\City Bank01\City Bank01\bin\Debug\City Bank01.pdb
+F:\DATA\City Bank01\City Bank01\obj\Debug\City Bank01.csprojAssemblyReference.cache
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.homepage.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form2.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form3.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form4.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Properties.Resources.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City Bank01.csproj.GenerateResource.cache
+F:\DATA\City Bank01\City Bank01\obj\Debug\City Bank01.csproj.CoreCompileInputs.cache
+F:\DATA\City Bank01\City Bank01\obj\Debug\City Bank01.exe
+F:\DATA\City Bank01\City Bank01\obj\Debug\City Bank01.pdb
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form5.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form6.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form7.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form8.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form9.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form10.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form11.resources
+F:\DATA\City Bank01\City Bank01\obj\Debug\City_Bank01.Form12.resources
